@@ -1,5 +1,5 @@
 # Code for 3D point cloud processing for UGV guidance
-<img align="right" width="200" height="200" src="matlab-figures/offset_scene.png">
+<img align="right" width="200" height="200" src="media/offset_scene.png">
 A Matlab and Python project for simulating a depth camera within a scene, and performing crop row angle prediction using Hough transform, RANSAC and NVIDIA's DriveNet CNN model. This project is part of a thesis submitted as a requirement for the degree of Bachelor of Engineering in Mechatronic Engineering. 
 
 ## Installation and usage
